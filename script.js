@@ -1,6 +1,6 @@
 // StarTimer landing page interactions
 // Replace the URL below with your actual installer/download URL.
-const STARTIMER_DOWNLOAD_URL = "https://www.mediafire.com/file/vm3nbd5o04yxs5u/StarTimer.zip/file"; // Example: "https://www.mediafire.com/file/vm3nbd5o04yxs5u/StarTimer.zip/file"
+const STARTIMER_DOWNLOAD_URL = "https://www.mediafire.com/file/dygtxbftmowfa61/StarTimer-V2.1.3.7z/file"; // Example: "https://www.mediafire.com/file/vm3nbd5o04yxs5u/StarTimer.zip/file"
 
 const menuButton = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
